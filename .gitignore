@@ -1,0 +1,12 @@
+# Local data is excluded from version control.
+data/*.csv
+!data/README.md
+
+# Python environments and cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.DS_Store
+Thumbs.db
